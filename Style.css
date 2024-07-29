@@ -34,9 +34,6 @@ div img{
     padding: 3px 5px 3px 5px;
     border-radius: 8px;
     border: 1px solid rgb(42, 137, 4);
-    /* position: absolute;
-    top: 70px;
-    left: 620px; */
     position: relative;
     bottom: 290px;
     left: 15px;
@@ -48,9 +45,6 @@ div img{
     padding: 3px 5px 3px 5px;
     border-radius: 8px;
     border: 1px solid rgb(221, 9, 111);
-    /* position: absolute;
-    top: 310px;
-    left: 840px; */
     position: relative;
     bottom: 40px;
     left: 160px;
